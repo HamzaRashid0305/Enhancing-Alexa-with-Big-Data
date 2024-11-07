@@ -53,14 +53,5 @@ This script trains a machine learning model based on the filtered and preprocess
 * This README provides a high-level overview of the project components. Further documentation within each script is recommended for detailed instructions.
 * Consider configuring environment variables for sensitive information like database credentials and Kafka connection details.
 
-### Contributing
 
-We welcome contributions to this project! Please refer to the contributing guidelines (if available) before submitting any pull requests.
-
-This README provides a basic structure for your project documentation. You can further customize it by adding details like:
-
-* Authors and contact information.
-* License information.
-* Dependencies and installation instructions. 
-* Specific details about the chosen recommendation model and its training process.
 
